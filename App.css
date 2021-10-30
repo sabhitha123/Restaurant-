@@ -1,0 +1,173 @@
+/* BackGround image */
+
+.opening-18{
+ margin-left: 0px;
+ margin-right: 0px;
+  position: absolute;
+  max-width: 1000%;
+  height: 150%;
+  opacity: 1;
+}
+
+.opening-91{
+  position: absolute;
+  opacity: 0.7;
+  width: 70%;
+  margin-left: 200px;
+  padding:5%
+
+}
+
+.opening-90{
+  position: absolute;
+  opacity: 0.7;
+  width: 70%;
+  margin-left: 200px;
+  padding-top: 25%;
+
+}
+.dots3{
+  position: absolute;
+  float: right;
+  opacity: 1;
+  padding-left: 90%;
+  padding-top: 30%;
+  
+}
+.shape_15{
+ 
+  float: right; 
+padding-top: 12%;
+
+
+ }
+ .shape_16{
+  position:absolute;
+float: right;
+padding-left: 800px;
+padding-top: 50%;
+opacity: 0.9;
+}
+.shape_20{
+  position: absolute;
+  opacity: 0.9;
+width:20%;
+  padding-top: 50%;
+  padding-left: 5%;
+  
+ 
+}
+.opening-64{
+
+position:absolute;
+padding-top: 55%;
+padding-right: 150%;
+opacity: 0.7;
+}
+.restaurant-opening-68{
+position: absolute;
+padding-top: 90%;
+padding-left: 10%;
+
+}
+.restaurant-opening-73{
+  position: absolute;
+  padding-top:90% ;
+  padding-left: 40%;
+
+}
+.restaurant-opening-80{
+  position: absolute;
+  padding-top:90%;
+  padding-left: 70%;
+}
+.restaurant-opening-72{
+  position: absolute;
+  padding-top:113% ;
+  padding-left: 78%;
+  opacity:0.6;
+}
+.restaurant-opening-81{
+  position: absolute;
+  padding-top:113% ;
+  padding-left: 88%;
+  opacity:0.26;
+}
+.restaurant-opening-79{
+  position: absolute;
+  padding-top:112% ;
+  padding-left: 10%;
+  opacity:0.4;
+}
+.restaurant-opening-78{
+  position: absolute;
+  padding-top:113% ;
+  padding-left: 40%;
+  opacity:0.4;
+}
+
+.restaurant-opening-74{
+  position: absolute;
+  padding-top:113% ;
+  padding-left: 70%;
+  opacity:0.4;
+}
+.restaurant-opening-83{
+  position: absolute;
+  padding-top:112% ;
+  padding-left: 15%;
+  opacity:0.26;
+}
+
+.restaurant-opening-70{
+  position: absolute;
+  padding-top:112% ;
+  padding-left: 24%;
+  opacity: 0.3;
+}
+.restaurant-opening-82{
+  position: absolute;
+  padding-top:114% ;
+  padding-left: 12%;
+  opacity: 0.3;
+  
+}
+.restaurant-opening-71{
+  position: absolute;
+  padding-top:114% ;
+  padding-left: 42%;
+  opacity: 0.3;
+  
+}
+.rounded-pill{
+  position: absolute;
+  padding-top:140% ;
+  padding-left: 45%;
+  border-radius: 30%;
+  border-image-outset: 100px;
+ 
+}
+.shape_14{
+  float: right;
+  position: absolute;
+  opacity: 0.9;
+  width:10%; 
+  padding-top: 140%;
+margin-left: 85%;
+}
+.sideimage{
+  position:absolute;
+  padding-top: 152%;
+
+}
+.sideimage-2{
+
+  position: absolute;
+  padding-top: 155%;
+  padding-left: 40%;
+}
+.sideimage-3{
+  position: absolute;
+  padding-top: 164%;
+  padding-left: 40%;
+}
